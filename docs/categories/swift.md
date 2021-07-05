@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Swift
-category: Swift
+category: swift
 permalink: '/categories/swift'
 ---
