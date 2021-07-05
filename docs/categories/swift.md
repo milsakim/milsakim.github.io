@@ -2,5 +2,5 @@
 layout: category
 title: Swift
 category: Swift
-permalink: '/category/linux'
+permalink: '/categories/swift'
 ---
