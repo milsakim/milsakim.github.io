@@ -4,3 +4,7 @@
 
 layout: home
 ---
+{% assing title = "home" %}
+{% if title == "home" %}
+  <h1>Hello World!!!</h1>
+{% endif %}
